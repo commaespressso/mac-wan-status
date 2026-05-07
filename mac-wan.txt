@@ -1,3 +1,3 @@
 # Mac mini current WAN IP (auto-updated every 5 min)
 # timestamp ip reverse-dns
-2026-05-07T23:22:14Z 58.153.164.139 n058153164139.netvigator.com
+2026-05-07T23:52:26Z 1.65.129.134 1-65-129-134.static.netvigator.com
